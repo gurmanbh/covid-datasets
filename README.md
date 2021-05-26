@@ -6,6 +6,6 @@ For most of them, the data was being overwritten by government agencies so I fir
 
 Here is a list of all of them.
 
-| What 	| Source Link | Github Link | Data duration |
------------------------------------------------------
+| What 		| Source Link | Github Link | Data duration |
+|-----------|-------------|-------------|---------------|
 | Beds availablity in Delhi | Delhi Govt | [Scraper & Data](https://github.com/gurmanbh/delhi-beds-scraper) | 22 April 2021 - Present
