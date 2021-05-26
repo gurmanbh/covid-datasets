@@ -12,8 +12,7 @@ Here is a list of all of them.
 | Beds availablity in Noida | [Gautam Buddh Nagar COVID Tracker](https://gbncovidtracker.in/)| [Scraper & Data](https://github.com/gurmanbh/noida-beds-scraper) | 30 April 2021 - Present |
 | Beds availablity in Nagpur | [Nagpur Smart City](https://nsscdcl.org/covidbeds/) | [Scraper & Data](https://github.com/gurmanbh/nagpur-beds-scraper) | 26 May 2021 - Present |
 | Beds availablity in Gurugram | [Deputy Commissioner, Gurugram](https://covidggn.com/) |[Scraper & Data](https://github.com/gurmanbh/gurugram-beds-scraper) | 5 May 2021 - Present | 
-| Beds availablity in Goa | [Goa Government](https://goaonline.gov.in/beds) | [Scraper
-](https://github.com/gurmanbh/goa-beds-scraper) & [Data](https://flatgithub.com/gurmanbh/goa-beds-scraper?filename=data%2Fcombined-data.csv)| 18 May 2021 - Present |
+| Beds availablity in Goa | [Goa Government](https://goaonline.gov.in/beds) | [Scraper](https://github.com/gurmanbh/goa-beds-scraper) & [Data](https://flatgithub.com/gurmanbh/goa-beds-scraper?filename=data%2Fcombined-data.csv)| 18 May 2021 - Present |
 | Beds availablity in Ahmedabad (PDFs)| [Ahmedabad Hospitals and Nursing Homes Association](https://ahna.org.in/covid19.html) | [Scraper & Data](https://github.com/gurmanbh/ahmedabad-beds-scraper)| 24 April 2021 - Present |
 | Beds availablity in Haryana| [Haryana COVID portal](https://coronaharyana.in/) | [Scraper & Data](https://github.com/gurmanbh/haryana-beds-scraper)| |
 | Beds availablity in West Bengal | [Government of West Bengal](https://www.wbhealth.gov.in/)|[Scraper & Data](https://github.com/gurmanbh/wb-beds-scraper/) | June 2020 - May 7 2021 |
