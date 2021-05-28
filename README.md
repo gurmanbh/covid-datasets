@@ -17,4 +17,4 @@ Here is a list of all of them.
 | Beds availablity in Haryana| [Haryana COVID portal](https://coronaharyana.in/) | [Scraper & Data](https://github.com/gurmanbh/haryana-beds-scraper)| |
 | Beds availablity in West Bengal | [Government of West Bengal](https://www.wbhealth.gov.in/)|[Scraper & Data](https://github.com/gurmanbh/wb-beds-scraper/) | June 2020 - May 7 2021 |
 | Mumbai Dashboard, Containment zones, Sealed buildings PDFs | [BMC](https://stopcoronavirus.mcgm.gov.in/) | [Scraper & Data](https://github.com/gurmanbh/mumbai-pdf-scraper) | 23 April 2021 - Present |
-| Chennai excess mortality and registered deaths | Greater Chennai Corporation and COVID19India | [Data and charts] (https://github.com/gurmanbh/chennai-registered-deaths-excess-mortality) | Deaths : 2008 - Present; Excess Mortality : April 27, 2020 - April 30, 2021
+| Chennai excess mortality and registered deaths | Greater Chennai Corporation and COVID19India | [Data and charts](https://github.com/gurmanbh/chennai-registered-deaths-excess-mortality) | Deaths : 2008 - Present; Excess Mortality : April 27, 2020 - April 30, 2021
